@@ -33,3 +33,30 @@ Circuit Diagram:
 
 ![image](https://github.com/user-attachments/assets/6b49566b-f577-435e-a2ef-368c3b59d5a1)
 
+## 4. Interfacing Switches using Pull Down Resistor configuration
+Sequence goes as:
+
+|  SWITCH | LED 1 |LED 2 |
+|-------|------|------|
+| 1 | ON | OFF |
+| 2 | OFF | ON |
+| 3 | ON | ON |
+| 4 | OFF | OFF |
+
+Circuit Diagram:
+
+![image](https://github.com/user-attachments/assets/73e3939f-ed1e-4a31-aaee-6f343848b5e8)
+
+## 5. Interfacing Switches using Pull Up Resistor configuration
+Sequence goes as:
+
+|  SWITCH | LED 1 |LED 2 |
+|-------|------|------|
+| 1 | ON | OFF |
+| 2 | OFF | ON |
+| 3 | ON | ON |
+| 4 | OFF | OFF |
+
+Circuit Diagram:
+
+![image](https://github.com/user-attachments/assets/60c951f0-7858-49f9-8af0-2583bde2141c)
